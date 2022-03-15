@@ -1,12 +1,13 @@
 <template>
-  <div class="about">
-    <h1>This is the about page</h1>
-    <p>We're all about</p>
+  <div>
+      <h1>This is my Home page</h1>
+     
   </div>
 </template>
 
 <script>
 export default {
+ 
 
 }
 </script>

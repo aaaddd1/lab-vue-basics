@@ -1,7 +1,7 @@
 <template>
-  <div class="about">
-    <h1>This is the about page</h1>
-    <p>We're all about</p>
+  <div class="cont">
+     <p> Contact us:</p>
+     <p>contact@contact.com</p>
   </div>
 </template>
 
